@@ -1,10 +1,17 @@
 <?php include('header.php'); ?>
+<div id="loader-wrapper">
+    <div id="loader"></div>
+ 
+    <div class="loader-section section-left"></div>
+    <div class="loader-section section-right"></div>
+ 
+</div>
 <!-- Header -->
 <header>
     <div class="container">
         <div class="intro-text">
             <div class="intro-lead-in">Welcome To Our Studio!</div>
-            <div class="intro-heading">It's Nice To Meet You</div>
+            <div class="intro-heading">Design your future</div>
             <a href="#services" class="page-scroll btn btn-xl">Tell Me More</a>
         </div>
     </div>
@@ -193,14 +200,10 @@
                 <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/1.jpg" class="img-responsive img-circle" alt="">
-                        <h4>Kay Garland</h4>
-                        <p class="text-muted">Lead Designer</p>
+                        <h4>Talha Dogar</h4>
+                        <p class="text-muted">Graphic Designer & Photographer</p>
                         <ul class="list-inline social-buttons">
-                            <li><a href="#"><i class="fa fa-twitter"></i></a>
-                            </li>
-                            <li><a href="#"><i class="fa fa-facebook"></i></a>
-                            </li>
-                            <li><a href="#"><i class="fa fa-linkedin"></i></a>
+                            <li><a href="https://www.facebook.com/talhadogar947" target="_blank"><i class="fa fa-facebook"></i></a>
                             </li>
                         </ul>
                     </div>
@@ -208,14 +211,10 @@
                 <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/2.jpg" class="img-responsive img-circle" alt="">
-                        <h4>Larry Parker</h4>
-                        <p class="text-muted">Lead Marketer</p>
+                        <h4>Khawar Dogar</h4>
+                        <p class="text-muted">Videography & Creative Writing</p>
                         <ul class="list-inline social-buttons">
-                            <li><a href="#"><i class="fa fa-twitter"></i></a>
-                            </li>
-                            <li><a href="#"><i class="fa fa-facebook"></i></a>
-                            </li>
-                            <li><a href="#"><i class="fa fa-linkedin"></i></a>
+                            <li><a href="https://www.facebook.com/khawar.abbas.92560" target="_blank"><i class="fa fa-facebook"></i></a>
                             </li>
                         </ul>
                     </div>
@@ -236,7 +235,8 @@
         <div class="row">
             <div class="col-lg-12 text-center">
                 <h2 class="section-heading">Contact Us</h2>
-                <h3 class="section-subheading text-muted">Work with us.</h3>
+                <h3 class="section-subheading text-muted first">Work with us.</h3>
+                <h3 class="section-subheading text-muted second"><strong>Phone: </strong>+923006090947</h3>
             </div>
         </div>
         <div class="row">
@@ -292,11 +292,7 @@
             </div>
             <div class="col-md-4">
                 <ul class="list-inline social-buttons">
-                    <li><a href="#"><i class="fa fa-twitter"></i></a>
-                    </li>
-                    <li><a href="#"><i class="fa fa-facebook"></i></a>
-                    </li>
-                    <li><a href="#"><i class="fa fa-linkedin"></i></a>
+                    <li><a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a>
                     </li>
                 </ul>
             </div>

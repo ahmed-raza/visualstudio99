@@ -739,3 +739,7 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #fed136;
 }
+#services .fa-stack span.photography {
+  background: url(../img/photography.png) no-repeat;
+  background-size: 100px 100px;
+}

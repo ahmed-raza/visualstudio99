@@ -1,7 +1,24 @@
 .space {
 	height: 10px;
 }
-#services i.photography {
-	background: url(../img/photography.png) no-repeat;
+#services .photography {
+	background: url(../img/photography.png);
 	background-size: 100px 100px;
+	display: block;
+	width: 100px;
+	height: 100px;
+}
+#services .videography {
+	background: url(../img/video.png);
+	background-size: 100px 100px;
+	display: block;
+	width: 100px;
+	height: 100px;
+}
+#services .design {
+	background: url(../img/design.png);
+	background-size: 100px 100px;
+	display: block;
+	width: 100px;
+	height: 100px;
 }

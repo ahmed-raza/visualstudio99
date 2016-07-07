@@ -22,14 +22,14 @@
         <div class="row text-center">
             <div class="col-md-4">
                 <span class="fa-stack fa-4x">
-                    <i class="photography"></i>
+                    <span class="photography"></span>
                 </span>
                 <h4 class="service-heading">Photography</h4>
                 <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
             </div>
             <div class="col-md-4">
                 <span class="fa-stack fa-4x">
-                    <i class="videography"></i>
+                    <span class="videography"></span>
                 </span>
                 <h4 class="service-heading">Videography</h4>
                 <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
@@ -219,21 +219,6 @@
                     </ul>
                 </div>
             </div>
-            <div class="col-sm-4">
-                <div class="team-member">
-                    <img src="img/team/3.jpg" class="img-responsive img-circle" alt="">
-                    <h4>Diana Pertersen</h4>
-                    <p class="text-muted">Lead Developer</p>
-                    <ul class="list-inline social-buttons">
-                        <li><a href="#"><i class="fa fa-twitter"></i></a>
-                        </li>
-                        <li><a href="#"><i class="fa fa-facebook"></i></a>
-                        </li>
-                        <li><a href="#"><i class="fa fa-linkedin"></i></a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
         </div>
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 text-center">
@@ -242,34 +227,6 @@
         </div>
     </div>
 </section>
-
-<!-- Clients Aside -->
-<aside class="clients">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-3 col-sm-6">
-                <a href="#">
-                    <img src="img/logos/envato.jpg" class="img-responsive img-centered" alt="">
-                </a>
-            </div>
-            <div class="col-md-3 col-sm-6">
-                <a href="#">
-                    <img src="img/logos/designmodo.jpg" class="img-responsive img-centered" alt="">
-                </a>
-            </div>
-            <div class="col-md-3 col-sm-6">
-                <a href="#">
-                    <img src="img/logos/themeforest.jpg" class="img-responsive img-centered" alt="">
-                </a>
-            </div>
-            <div class="col-md-3 col-sm-6">
-                <a href="#">
-                    <img src="img/logos/creative-market.jpg" class="img-responsive img-centered" alt="">
-                </a>
-            </div>
-        </div>
-    </div>
-</aside>
 
 <!-- Contact Section -->
 <section id="contact">
@@ -329,7 +286,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-4">
-                <span class="copyright">Copyright &copy; Your Website 2016</span>
+                <span class="copyright">Copyright &copy; 2016 Visual Studio 99</span>
             </div>
             <div class="col-md-4">
                 <ul class="list-inline social-buttons">

@@ -1,3 +1,7 @@
 .space {
 	height: 10px;
 }
+#services i.photography {
+	background: url(../img/photography.png) no-repeat;
+	background-size: 100px 100px;
+}

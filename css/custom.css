@@ -192,3 +192,7 @@
         width: 80%;
         max-width: 978px;
     }  
+
+    .team-member img {
+    	width: 200px;
+    }

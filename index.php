@@ -209,10 +209,10 @@
                     </div>
                 </div>
                 <div class="col-sm-4">
-                    <div class="team-member">
+                    <div class="team-member second">
                         <img src="img/team/2.jpg" class="img-responsive img-circle" alt="">
                         <h4>Khawar Dogar</h4>
-                        <p class="text-muted">Videography & Creative Writing</p>
+                        <p class="text-muted">Videographer & Creative Writer</p>
                         <ul class="list-inline social-buttons">
                             <li><a href="https://www.facebook.com/khawar.abbas.92560" target="_blank"><i class="fa fa-facebook"></i></a>
                             </li>
